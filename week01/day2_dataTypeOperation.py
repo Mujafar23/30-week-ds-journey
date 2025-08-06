@@ -121,3 +121,20 @@ if my_variable is None:
     print("my_variable is None")
 else:
     print("my_variable has a value.")
+
+#string formatting
+name = "Hero"
+age = 23
+print(f"Hello, {name}! You are {age} years old.")
+price = 99.456
+print(f"Price: ${price:.2f}")
+Firstname = input("Enter your name: ")  # Returns a string
+ageS = int(input("Enter your age: "))  # Convert to integer
+print("Name:", Firstname, "Age:", ageS)
+print(f"{name = }, {age = }")
+#mini project
+Name2 = input("Enter your name: ")
+doe = int(input("Enter your date of birth year: "))
+current_year = 2025
+age2 = current_year - doe
+print(f"Your name is{Name2 = },and your is {age2 = } according to Date of year")
