@@ -47,3 +47,14 @@ for _ in range(rows):
 # fill in the rows and cols with desired values
 
 print(mynew_matrix)
+
+grades = [
+    ["Sahil",78,87,89,],
+    ["Rajesh", 86, 55, 78],
+    ["saad",87,67,87]
+]
+alice_grades = grades[0],[1]
+alice_avg = sum(alice_grades) / len(alice_grades)
+print(alice_grades)
+print(alice_avg)
+
