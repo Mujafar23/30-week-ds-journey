@@ -1,0 +1,9 @@
+Break: 10:30-10:45 AM
+Afternoon Session (2:00 PM - 4:00 PM) - 2 hours
+Regular Expressions and Pattern Matching
+2:00-2:30 PM: Regular Expression Basics
+Hello World!!! This is a sample text with punctuation,
+    numbers like 123, special characters @#$%, and    extra    whitespace.
+
+    It also contains URLs like https://example.com and emails like test@email.com.
+    Don't you think it's messy?
