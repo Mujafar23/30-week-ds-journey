@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "amount": 25.5,
+    "category": "food",
+    "description": "Lunch",
+    "date": "2024-01-15"
+  },
+  {
+    "id": 2,
+    "amount": 15.75,
+    "category": "transport",
+    "description": "Bus fare",
+    "date": "2024-01-15"
+  },
+  {
+    "id": 3,
+    "amount": 100.0,
+    "category": "utilities",
+    "description": "Electric bill",
+    "date": "2024-01-16"
+  },
+  {
+    "id": 4,
+    "amount": 8.25,
+    "category": "food",
+    "description": "Coffee",
+    "date": "2024-01-16"
+  }
+]

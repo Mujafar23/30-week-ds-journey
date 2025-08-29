@@ -1,0 +1,15 @@
+EXPENSE REPORT
+==================================================
+Generated on: 2025-08-27 22:11:11
+
+$   25.50 | food         | Lunch
+$   15.75 | transport    | Bus fare
+$  100.00 | utilities    | Electric bill
+$    8.25 | food         | Coffee
+--------------------------------------------------
+TOTAL: $149.50
+
+BY CATEGORY:
+food        : $   33.75 ( 22.6%)
+transport   : $   15.75 ( 10.5%)
+utilities   : $  100.00 ( 66.9%)

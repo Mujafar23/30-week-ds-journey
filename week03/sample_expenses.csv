@@ -1,0 +1,5 @@
+id,amount,category,description,date
+1,25.5,food,Lunch,2024-01-15
+2,15.75,transport,Bus fare,2024-01-15
+3,100.0,utilities,Electric bill,2024-01-16
+4,8.25,food,Coffee,2024-01-16
